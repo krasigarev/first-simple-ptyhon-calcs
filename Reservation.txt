@@ -1,0 +1,12 @@
+Name: vlado
+GSM: 0899123456
+Hour: 21:00
+day: monday
+Thank you!!!
+-----
+Name: krasi
+GSM: 0888123456
+Hour: 20:30
+day: friday
+Thank you!!!
+-----

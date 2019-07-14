@@ -17,7 +17,7 @@ while not person_list[0] == 'end':
     hour = person_list[2]
     day = person_list[3]
 
-    person_new = Reservation(name, gsm, hour, day)
+    person_new = Reservation(name=name, gsm=gsm, hour=hour, day=day)
     reservation_list.append(person_new)
 
     person_list = input().split()
@@ -32,7 +32,9 @@ for person_new in reservation_list:
             f"Hour: {person_new.hour}\n"
             f"day: {person_new.day}\n"
             f"Thank you!!!\n"
-            f"-----\n")
+            f"\n"
+            f"-----\n"
+            f"\n")
     f.close()
 
 
