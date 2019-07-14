@@ -15,3 +15,59 @@ Thank you!!!
 
 -----
 
+Name: Krasimir
+GSM: Garev
+Hour: 0899123456
+day: 20
+Thank you!!!
+
+-----
+
+Name: ['krasi']
+GSM: <map object at 0x00A41F50>
+Hour: <map object at 0x00A41FF0>
+day: monday
+Thank you!!!
+
+-----
+
+Name: ['krasi']
+GSM: [888, 123456]
+Hour: <map object at 0x01221F50>
+day: monday
+Thank you!!!
+
+-----
+
+Name: ['krasi']
+GSM: [888, 123456]
+Hour: <map object at 0x02EE1ED0>
+day: monday
+Thank you!!!
+
+-----
+
+Name: ['krasi', 'Garev']
+GSM: ['0899', '123456']
+Hour: ['20', '19']
+day: monday
+Thank you!!!
+
+-----
+
+Name: ['krasi', 'Garev']
+GSM: ['0899', '123456']
+Hour: ['20', '19']
+day: monday
+Thank you!!!
+
+-----
+
+Name: krasi Garev
+GSM: 0899 123456
+Hour: 20:19
+day: monday
+Thank you!!!
+
+-----
+
