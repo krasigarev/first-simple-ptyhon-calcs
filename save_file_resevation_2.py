@@ -1,3 +1,6 @@
+# output in txt file, input data with direct input
+
+
 class Reservation:
     def __init__(self, name, gsm, hour, day):
         self.name = name

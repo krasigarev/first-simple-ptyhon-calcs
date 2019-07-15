@@ -1,3 +1,6 @@
+# output in txt file, input with while loop
+
+
 class Reservation:
     def __init__(self, name, gsm, hour, day):
         self.name = name
@@ -6,9 +9,7 @@ class Reservation:
         self.day = day
 
 
-
 person_list = input().split()
-
 reservation_list = []
 
 while not person_list[0] == 'end':
@@ -22,8 +23,6 @@ while not person_list[0] == 'end':
 
     person_list = input().split()
 
-
-
 for person_new in reservation_list:
     f = open("Reservation.txt", "a+")
 
@@ -36,7 +35,6 @@ for person_new in reservation_list:
             f"-----\n"
             f"\n")
     f.close()
-
 
 '''
 input 1::

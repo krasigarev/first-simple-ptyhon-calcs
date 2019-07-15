@@ -1,10 +1,12 @@
+# output in terminal
+
+
 class Reservation:
     def __init__(self, name, gsm, hour, day):
         self.name = name
         self.gsm = gsm
         self.hour = hour
         self.day = day
-
 
 
 person_list = input().split()
